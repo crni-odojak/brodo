@@ -1,0 +1,6 @@
+Definiranje uvodnica za ASQ i QT ormare za HPP Santa Massenza:
+1) Iz shema generirati količine i tipove kabela za svaki navedeni ormar - Kabeli su naručeni od firme TESLA CABLES. datasheetovi signalnih kabela su u mapi.
+2) Za svaki tip kabela potrebno je pronaći njegov vanjski promjer i prema tome definirati uvodnice proizvođača Rittal - https://www.rittal.com/hr-hr/products/PG20231215ZUB101/PG20240405ZUB003/PG20240405ZUB006/PRO68836. Preuzeti dwg uvodnica sa stranica Rittala.
+3) Za ASQ je korišten AX ormar od Rittala - kataloški broj - AX 1090000, a za QT AX ormar od Rittala - kataloški broj AX 1058000. Na Rittalovoj stranici potrebno je pronaći dwg ili dxf nacrt njihovih uvodnih ploča i ubaciti u pregledni nacrt ormara.
+4) Ucrtat uvodnice na svaku uvodnu ploču. Napomena: uvodnice se crtaju na minimalno 50 mm od zida ormara.
+5) Napraviti u excelu specifikaciju i količine uvodnica za narudžbu.
