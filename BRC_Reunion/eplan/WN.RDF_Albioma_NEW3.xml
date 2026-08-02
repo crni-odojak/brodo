@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- WireNumberingLog_PROJECT_Schema: WN.RDF Albioma_NEW3.xml -->
+<Settings format="2">
+ <CAT name="PROJECT">
+  <MOD name="WireNumberingLog">
+   <LEV1 name="Schema" nodekind="scheme">
+    <LEV2 name="RDF Albioma_NEW3">
+     <LEV3 name="Data" nodekind="block">
+      <LEV4 name="TabCommon">
+       <Setting name="ApplyToCraftCooling" type="bool" desc="599">
+        <Val>0</Val>
+       </Setting>
+       <Setting name="ApplyToCraftCoolingLubricant" type="bool" desc="950">
+        <Val>1</Val>
+       </Setting>
+       <Setting name="ApplyToCraftElectrical" type="bool" desc="596">
+        <Val>1</Val>
+       </Setting>
+       <Setting name="ApplyToCraftGasTechnology" type="bool" desc="950">
+        <Val>1</Val>
+       </Setting>
+       <Setting name="ApplyToCraftHydraulics" type="bool" desc="597">
+        <Val>0</Val>
+       </Setting>
+       <Setting name="ApplyToCraftLubrication" type="bool" desc="600">
+        <Val>0</Val>
+       </Setting>
+       <Setting name="ApplyToCraftMechanics" type="bool" desc="601">
+        <Val>0</Val>
+       </Setting>
+       <Setting name="ApplyToCraftPneumatics" type="bool" desc="598">
+        <Val>0</Val>
+       </Setting>
+       <Setting name="ApplyToCraftProcess" type="bool" desc="950">
+        <Val>1</Val>
+       </Setting>
+       <Setting name="ApplyToTypeCable" type="bool" desc="595">
+        <Val>0</Val>
+       </Setting>
+       <Setting name="ApplyToTypeDirect" type="bool" desc="595">
+        <Val>0</Val>
+       </Setting>
+       <Setting name="ApplyToTypeFibreOptic" type="bool" desc="595">
+        <Val>0</Val>
+       </Setting>
+       <Setting name="ApplyToTypeFunctional" type="bool" desc="595">
+        <Val>0</Val>
+       </Setting>
+       <Setting name="ApplyToTypeGeneral" type="bool" desc="595">
+        <Val>0</Val>
+       </Setting>
+       <Setting name="ApplyToTypeHose" type="bool" desc="595">
+        <Val>0</Val>
+       </Setting>
+       <Setting name="ApplyToTypeInsertionJumper" type="bool" desc="595">
+        <Val>0</Val>
+       </Setting>
+       <Setting name="ApplyToTypeIntern" type="bool" desc="595">
+        <Val>0</Val>
+       </Setting>
+       <Setting name="ApplyToTypeJumper" type="bool" desc="595">
+        <Val>1</Val>
+       </Setting>
+       <Setting name="ApplyToTypeNonElectrical" type="bool" desc="595">
+        <Val>0</Val>
+       </Setting>
+       <Setting name="ApplyToTypePhaseBar" type="bool" desc="960">
+        <Val/>
+       </Setting>
+       <Setting name="ApplyToTypeProcess" type="bool" desc="967">
+        <Val>0</Val>
+       </Setting>
+       <Setting name="ApplyToTypeRadio" type="bool" desc="595">
+        <Val>0</Val>
+       </Setting>
+       <Setting name="ApplyToTypeSaddleJumper" type="bool" desc="595">
+        <Val>0</Val>
+       </Setting>
+       <Setting name="ApplyToTypeTube" type="bool" desc="595">
+        <Val>0</Val>
+       </Setting>
+       <Setting name="ApplyToTypeWire" type="bool" desc="595">
+        <Val>0</Val>
+       </Setting>
+       <Setting name="ApplyToTypeWireJumper" type="bool" desc="595">
+        <Val>1</Val>
+       </Setting>
+       <Setting name="ApplyToTypeWireing" type="bool" desc="595">
+        <Val>1</Val>
+       </Setting>
+       <Setting name="ApplyToTypeWireingPath" type="bool" desc="595">
+        <Val>0</Val>
+       </Setting>
+      </LEV4>
+      <LEV4 name="TabDesignation">
+       <LEV5 name="FormatGroup1">
+        <Setting name="CounterGroup" type="bool">
+         <Val>1</Val>
+        </Setting>
+        <Setting name="CounterStartValue" type="int">
+         <Val>1</Val>
+        </Setting>
+        <Setting name="CounterStepValue" type="int">
+         <Val>1</Val>
+        </Setting>
+        <Setting name="Extent" type="int">
+         <Val>1</Val>
+        </Setting>
+        <LEV6 name="FormatDefinition1">
+         <Setting name="CounterStartValue" type="int">
+          <Val>1</Val>
+         </Setting>
+         <Setting name="CounterStepValue" type="int">
+          <Val>1</Val>
+         </Setting>
+         <Setting name="Setting" type="string">
+          <Val>0|2|0|0</Val>
+         </Setting>
+         <Setting name="Type" type="int">
+          <Val>8</Val>
+         </Setting>
+        </LEV6>
+        <LEV6 name="FormatDefinition2">
+         <Setting name="Setting" type="string">
+          <Val>2| |1</Val>
+         </Setting>
+         <Setting name="Type" type="int">
+          <Val>10</Val>
+         </Setting>
+        </LEV6>
+        <LEV6 name="FormatDefinition3">
+         <Setting name="CounterStartValue" type="int">
+          <Val>1</Val>
+         </Setting>
+         <Setting name="CounterStepValue" type="int">
+          <Val>1</Val>
+         </Setting>
+         <Setting name="Setting" type="string">
+          <Val>0|2|0|1|0|0|abcdefghijklmnopqrstuvwxyz|0|0|1|0|1|1|1|1|1|1|1|1|1|1|1|1|1|1||0</Val>
+         </Setting>
+         <Setting name="Type" type="int">
+          <Val>7</Val>
+         </Setting>
+        </LEV6>
+        <Setting name="Group" type="string">
+         <Val>1</Val>
+        </Setting>
+        <Setting name="NumberOfFormatDefinitions" type="int">
+         <Val>3</Val>
+        </Setting>
+        <Setting name="OverwriteInterruptionPointDesignations" type="bool">
+         <Val>0</Val>
+        </Setting>
+        <Setting name="OverwriteStrandConnectorDesignations" type="bool">
+         <Val>0</Val>
+        </Setting>
+        <Setting name="OverwriteTerminalDesignations" type="bool">
+         <Val>0</Val>
+        </Setting>
+       </LEV5>
+       <Setting name="NetExpansionFunctions" type="string">
+        <Val/>
+       </Setting>
+       <Setting name="NumberOfFormatGroups" type="int" desc="602">
+        <Val>1</Val>
+       </Setting>
+       <Setting name="SettingDesc" type="bool">
+        <Val/>
+       </Setting>
+      </LEV4>
+      <LEV4 name="TabDisplay">
+       <Setting name="Angle" type="double" desc="609">
+        <Val>50001</Val>
+       </Setting>
+       <Setting name="Attachment" type="int" desc="608">
+        <Val>5</Val>
+       </Setting>
+       <Setting name="Bold" type="bool" desc="612">
+        <Val>0</Val>
+       </Setting>
+       <Setting name="Cursive" type="bool" desc="613">
+        <Val>0</Val>
+       </Setting>
+       <Setting name="Font" type="int" desc="610">
+        <Val>0</Val>
+       </Setting>
+       <Setting name="FontColour" type="int" desc="606">
+        <Val>-16002</Val>
+       </Setting>
+       <Setting name="FontSize" type="double" desc="605">
+        <Val>1.8</Val>
+       </Setting>
+       <Setting name="Invisible" type="int" desc="607">
+        <Val>0</Val>
+       </Setting>
+       <Setting name="Layer" type="int" desc="611">
+        <Val>405</Val>
+       </Setting>
+       <Setting name="SpaceHorizontal" type="double" desc="603">
+        <Val>1.5</Val>
+       </Setting>
+       <Setting name="SpaceVertical" type="double" desc="604">
+        <Val>1.5</Val>
+       </Setting>
+       <Setting name="Underline" type="bool" desc="614">
+        <Val>0</Val>
+       </Setting>
+      </LEV4>
+      <LEV4 name="TabPlacement">
+       <Setting name="AlignPlacements" type="bool" desc="2059">
+        <Val>1</Val>
+       </Setting>
+       <Setting name="PlaceMode" type="int">
+        <Val>1</Val>
+       </Setting>
+       <LEV5 name="SymbolData">
+        <Setting name="Library" type="int">
+         <Val>0</Val>
+        </Setting>
+        <Setting name="Number" type="int">
+         <Val>311</Val>
+        </Setting>
+        <Setting name="Variant" type="int">
+         <Val>0</Val>
+        </Setting>
+       </LEV5>
+      </LEV4>
+     </LEV3>
+     <Setting name="Description" type="mlstring">
+      <Val>??_??@FR STANDARD&#10;PAGE+SEQ. NUMBER;</Val>
+     </Setting>
+     <Setting name="Name" type="mlstring">
+      <Val>??_??@RDF Albioma_NEW3;</Val>
+     </Setting>
+     <Setting name="ReadOnly" type="bool">
+      <Val>0</Val>
+     </Setting>
+    </LEV2>
+   </LEV1>
+  </MOD>
+ </CAT>
+</Settings>
