@@ -1,0 +1,3 @@
+1) dodati nazive izvoda gdje treba
+2) za grijače treba dodati i structure boxeve prema slikama. Na slici je tip kabela, a nazivi kabela su -YBJP14/W036, -YBJP14/W037 i -YBJP14/W038
+3) na ostalim kabelima iz imena treba izbaciti "0" gdje je to potrebno odnosno svaki kabel na kraju imena može imati samo 3 broje, npr ako piše W0035 treba pisati W035

@@ -1,0 +1,4 @@
+1) Napravit ću ti skicu sa screenshotom, ali da bi dobili unutrašnji izgled ormarića, trebamo izbrisati vrata i kvakve i ubaciti montažnu ploču - oba dwg-a sam skinuo s Rittalove stranice i nalaze se u ovoj mapi
+2) JB - CUBICLE ASSEMBLY DRAWING_20260724.dwg je primjer kako je Magdalena crtala spojne kutije, možeš uzeti za primjer JB13 u smislu da se koriste 25x60 kanalice (osim kanalice na dnu koja bi trebala biti 40x60) i pripazi da uzmeš istu udaljenost od ruba ormara do kanalica, stezaljke su WDU4 (uzmeš od Y CDP01) 
+3) Sastavnicu za ormar uzmeš od YBJP14 odnosno taj dwg iskopiraš i u njega ubaciš ovaj ormarić.
+4) Oznaka nacrta je 26015-DD-EE-01-132 - PREGLEDNI NACRT ORMARIĆA MJERENJA RAZINE VODE BAZENA RASHLADE +Y BJP14 GH001, dvije stranice, jedna prednji izgled s vratima, drugi prednji izgled bez vrata

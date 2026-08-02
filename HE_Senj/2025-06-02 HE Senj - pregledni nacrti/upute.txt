@@ -1,0 +1,10 @@
+1) Pripremiti ormar i opremu za pregledni nacrt upravljačkog ormara za HE Senj. Možeš to nastaviti raditi u istom dwg-u u kojem si prošli tjedan crtao PLC opremu.
+
+1.1) HPP MASTER PROJECT +1CJA10 600 MM - CUBICLE ASSEMBLY DRAWING -> odatle uzeti okvir ormara širine 600 mm kakav će ti trebati, da ne moraš skidati dwg s Rittalove stranice i raditi blok
+
+1.2) Ideja je da uzmeš excel "HE Senj - rashlada - Popis opreme-2026-05-29" koji sam ti dala prošli tjedan, gledaš sheet E6-1 i pokušaš u Autocadu prema kataloškim brojevima iz Excela pripremiti grafike za svu opremu. Mislim da ćeš iz dokumenta "PER-E-2-U7-ASB-001-00-VHHR - Unit 7 turbine governor cubicle assembly drawings_PIO" moći izvući stavke 1.1.14, 1.1.16, 1.1.17, vjerojatno ćeš ih moći lako prepoznati u preglednom nakon što ih izguglaš. Možeš imati neku radnu verziju Excela u kojoj ćeš označavati koju si opremu pripremio.
+
+1.3) Opcionalni zadatak ako ti bude baš dosadno je da pokušaš tu opremu posložiti po ormaru, za primjer imaš 2 pregledna nacrta osim master projekta, ali ne moraš previše time razbijati glavu ako ne stigneš/ne znaš. Ne očekujemo od tebe da to odradiš bez nekog našeg inputa i pomoći, s obzirom na to da bi to radio prvi put. Dakle, ako ne ide, ne zamaraj se.
+
+
+2) Sheet E12.3-1 istog excela, stavka 2.1, pokušati pripremiti grafiku za stavku 2.1.1, to bi trebao biti tvornički ožičen ormarić s frekventnim pretvaračem. Pokušati to iskopati na Schneiderovoj stranici. Možeš staviti u isti dwg file kao i prvi dio zadatka, samo naznačiti negdje o čemu se radi.

@@ -1,0 +1,14 @@
+~~1) Visinu gljive uzeti od Y CJP01~~
+
+~~2) Visinu lampice od gljive uzeti iz preglednog od 1CJA10 - 600 mm koji je u ovoj mapi. Također, uzeti grafiku lampica iz MP-a~~
+
+~~3) za local remote uzeti grafiku iz MP-a od -S100~~
+
+~~4) staviti oznaku i naziv ormara +Y BJP12 - ORMAR CRPNOG AGREGATA RASHLADNE VODE B~~
+
+5\) Sastavnicu uzimaš od YBJP14 ormara, tako da možeš taj dwg prekopirati i u njega ubaciti YBJP12
+
+6\) Oznaka dokumenta je 26015-DD-EE-01-122, a naziv nacrta PREGLEDNI NACRT ORMARA CRPNOG AGREGATA RASHLADNE VODE B +Y BJP12
+
+
+

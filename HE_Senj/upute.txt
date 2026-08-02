@@ -1,0 +1,7 @@
+1) uzeti Excel s listom signala (gledati sheet "+Y CDP01 - simbol lista") i iz njega izvući broj DI, DO, AI, AO
+2) uzeti Excel s popisom opreme i identificirati PLC opremu u C stupcu
+	- trenutno te zanimaju PLC/CPU, interface moduli i kartice analognih ulaza i izlaza
+	- hint: u B stupcu vjerojatno ima oznaku tipa -Axxx
+	- ako je žuto u C stupcu, gleda se stupac D
+3) prema broju signala iz koraka 1 definirati potreban broj kartica DI/DO/AI/AO, odnosno složiti PLC konfiguraciju
+4) pripremiti grafike u CAD-u

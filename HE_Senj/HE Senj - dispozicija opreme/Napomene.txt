@@ -1,0 +1,10 @@
+1) Potrebno je prebaciti sva 4 nacrta u Sintaksinu sastavnicu odnosno u podlogu 18047-MD-EE-01-252 - Dispozicija elektro opreme sustava upravljanja zajedničkih uređaja
+2) Oznaka nacrta je 26015-DD-EE-01-201, nazivi nacrta su:
+	i)   DISPOZICIJA ELEKTRO OPREME SUSTAVA RASHLADE - KOTA -2.67
+	ii)  DISPOZICIJA ELEKTRO OPREME SUSTAVA RASHLADE - KOTA +7,03
+	iii) DISPOZICIJA ELEKTRO OPREME SUSTAVA RASHLADE - KOTA +13,83
+	iv)  DISPOZICIJA ELEKTRO OPREME SUSTAVA RASHLADE - KOTA +28,53
+Ostali podaci na sastavnici su kao na preglednom +Y CDP01
+3) Skalu na sastavnici treba prepisati od skale u nacrtu, vjerojatno će ti biti 1:100 ili tako nešto, a ne 1:5 kako smo greškom naveli u podlozi.
+
+
