@@ -1,0 +1,6 @@
+CPU - PM864
+optički modul - TB840
+digitalni ulazi - DI810
+digitalni izlazi - DO810
+analogni ulazi - AI810
+analogni izlazi - AO810
