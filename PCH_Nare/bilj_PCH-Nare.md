@@ -50,7 +50,7 @@ X312 spojeno na -X39:66
 
 
 
-fale kabeli 
+fale kabeli
 
 * NB/69 (NB/67 u shemama iz radionice)
 
@@ -69,29 +69,25 @@ kabeli u više različitih ormara
 
 
 
-iskoristiti 4 slobodne žile od CJAW124 za BFA01 na MB/24, pomaknuti CJAW110 unazad
+~~iskoristiti 4 slobodne žile od CJAW124 za BFA01 na MB/24, pomaknuti CJAW110 unazad~~
 
 
 
-iskoristiti 8 slobodnih žila CJAW122 za MEX10 CH01 na MC/58 umjesto CJAW118
+~~iskoristiti 8 slobodnih žila CJAW122 za MEX10 CH01 na MC/58 umjesto CJAW118~~
 
 
 
-**OSMISLI PLAN PONOVO** CJAW127 za ormar 0CHG01, tj. maknuti žile 4,5 i 10,11 iz 0AKA01 pa prebaciti 7,8,9 u 4,5,6
+~~maknuti kabel ispod CJAW152 na MB/51~~
 
 
 
-maknuti kabel ispod CJAW152 na MB/51
+~~dodati CJAW177 za MKA10 umjesto CJAW176 žila~~
 
 
 
-dodati CJAW177 za MKA10 umjesto CJAW176 žila
+<b>~~OSMISLI PLAN PONOVO~~</b> <del>CJAW127 za ormar 0CHG01, tj. maknuti žile 4,5 i 10,11 iz 0AKA01 pa prebaciti 7,8,9 u 4,5,6</del>
 
-
-
-
-
-
+~~dodati nove kabele ili iskoristiti stare za ostale ormare~~
 
 
 
@@ -112,6 +108,38 @@ dodati CJAW177 za MKA10 umjesto CJAW176 žila
 
 
 
+
+
+
+
+
+
+
+
+
+### 4.8.2026.
+
+
+
+iskorištene 4 žile od CJAW124 za BFA01 na MB/24 (skraćen CJAW110)
+
+
+
+iskorišteno 8 žila od CJAW122 za MEX10 CH01 na MC/58 (skraćen CJAW118)
+
+
+
+izbrisan kabel ispod CJAW152 na MB/51
+
+
+
+dodan CJAW177 i spojene njegove 2 žile u MKA10 umjesto CJAW176
+
+
+
+iskorišten CJAW127 za 0CHG01
+
+dodani novi kabeli u CJAW131,132,133,134 u 0AKA01,02,03,04
 
 
 
