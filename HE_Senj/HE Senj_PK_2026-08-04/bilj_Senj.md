@@ -1,0 +1,76 @@
+1. ###### **ZADATAK**
+
+
+
+U HE Senj projektu, prema Master projektu, napraviti PLC overview stranice koje uključuju stranice za:
+
+1. ~~HMI~~ 
+2. ~~PLC CPU~~ 
+3. ~~sve PLC kartice (količinu vidjeti na MA stranicama)~~
+4. ~~ethernet switch~~
+* To ne znači da se uzimaju partovi iz MP-a, već samo izgled overview stranica. U HE Senj je već definirana PLC oprema.
+
+
+
+SIMATIC HMI MTP1500 == 6AV2128-3QB06-0AX1
+
+SIMATIC S7-1500, CPU 1513-1 PN == 6ES7513-1AM03-0AB0
+
+SIMATIC S7-1500, digitalni ulazni modul DI 32x24 V DC HF == 6ES7521-1BL00-0AB0
+
+
+
+
+
+
+
+
+
+
+
+###### **2. ZADATAK**
+
+
+
+Iz projekta HE Senj izbaciti summarized parts listu i usporediti kataloške brojeve i količine s opremom u "Specifikacija opreme - HEP-v2" sheetu i izbaciti sve razlike. Ako neke opreme ima više u shemama (ili ima kataloških brojeva kojih nema u sheetu) nego u sheetu, znači da je moramo naručiti. Ako neke opreme ima manje u shemama, znači da ćemo ju vjerojatno vraćati na lager. 
+
+
+
+Najbolje je to napraviti tako da se samo doda stupac u "Specifikacija opreme - HEP-v2" koji daje informaciju o količinama iz shema (ako u shemama postoji kataloški broj koji nije na tom popisu, dodati ga u novi red) i dodati još jedan stupac razlike u količinama.
+
+
+
+NAPOMENA: Opremu poput kratkospojnika ili graničnika za stezaljke još uvijek ne specificiramo u shemama, pa će ti takve stvari izgledati kao da ih trebamo dodatno naručiti. Popiši ih svejedno, ja ću ih provjeriti.
+
+
+
+
+
+**stao na provjeravanju opreme 2500460**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
