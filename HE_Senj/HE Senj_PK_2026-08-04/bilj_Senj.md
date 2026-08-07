@@ -48,9 +48,49 @@ NAPOMENA: Opremu poput kratkospojnika ili graničnika za stezaljke još uvijek n
 
 
 
+**NAPRAVLJENO**	
 
 
-**NAPRAVLJENO**
+
+
+
+
+
+
+
+
+
+##### **DODATNO**
+
+
+
+popravljen nar. br. za partove:
+
+* 700-HA33Z24-3-4 
+* 943405
+* AN25DDC400
+
+
+
+napravljeno u backupu 7.8.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
