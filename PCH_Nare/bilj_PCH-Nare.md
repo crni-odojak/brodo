@@ -85,7 +85,7 @@ kabeli u više različitih ormara
 
 
 
-<b>~~OSMISLI PLAN PONOVO~~</b> <del>CJAW127 za ormar 0CHG01, tj. maknuti žile 4,5 i 10,11 iz 0AKA01 pa prebaciti 7,8,9 u 4,5,6</del>
+<b>~~OSMISLI PLAN PONOVO~~</b> ~~CJAW127 za ormar 0CHG01, tj. maknuti žile 4,5 i 10,11 iz 0AKA01 pa prebaciti 7,8,9 u 4,5,6~~
 
 ~~dodati nove kabele ili iskoristiti stare za ostale ormare~~
 
@@ -140,6 +140,16 @@ dodan CJAW177 i spojene njegove 2 žile u MKA10 umjesto CJAW176
 iskorišten CJAW127 za 0CHG01
 
 dodani novi kabeli u CJAW131,132,133,134 u 0AKA01,02,03,04
+
+
+
+
+
+
+
+
+
+
 
 
 

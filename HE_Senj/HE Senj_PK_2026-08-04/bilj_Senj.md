@@ -4,8 +4,8 @@
 
 U HE Senj projektu, prema Master projektu, napraviti PLC overview stranice koje uključuju stranice za:
 
-1. ~~HMI~~ 
-2. ~~PLC CPU~~ 
+1. ~~HMI~~
+2. ~~PLC CPU~~
 3. ~~sve PLC kartice (količinu vidjeti na MA stranicama)~~
 4. ~~ethernet switch~~
 * To ne znači da se uzimaju partovi iz MP-a, već samo izgled overview stranica. U HE Senj je već definirana PLC oprema.
@@ -32,7 +32,7 @@ SIMATIC S7-1500, digitalni ulazni modul DI 32x24 V DC HF == 6ES7521-1BL00-0AB0
 
 
 
-Iz projekta HE Senj izbaciti summarized parts listu i usporediti kataloške brojeve i količine s opremom u "Specifikacija opreme - HEP-v2" sheetu i izbaciti sve razlike. Ako neke opreme ima više u shemama (ili ima kataloških brojeva kojih nema u sheetu) nego u sheetu, znači da je moramo naručiti. Ako neke opreme ima manje u shemama, znači da ćemo ju vjerojatno vraćati na lager. 
+Iz projekta HE Senj izbaciti summarized parts listu i usporediti kataloške brojeve i količine s opremom u "Specifikacija opreme - HEP-v2" sheetu i izbaciti sve razlike. Ako neke opreme ima više u shemama (ili ima kataloških brojeva kojih nema u sheetu) nego u sheetu, znači da je moramo naručiti. Ako neke opreme ima manje u shemama, znači da ćemo ju vjerojatno vraćati na lager.
 
 
 
@@ -46,29 +46,11 @@ NAPOMENA: Opremu poput kratkospojnika ili graničnika za stezaljke još uvijek n
 
 
 
-**stao na provjeravanju opreme 2500460**
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+**NAPRAVLJENO**
 
 
 
