@@ -46,5 +46,5 @@
 
 
 
-* kabeli - pogledaj plan u bilj\_PCH-Nare
+* ~~kabeli - pogledaj plan u bilj\_PCH-Nare~~
 

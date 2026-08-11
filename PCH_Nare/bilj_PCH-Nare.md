@@ -1,6 +1,10 @@
-# PCH NARE BILJEŠKE 27.7.2026. - 29.7.2026.
+PCH NARE BILJEŠKE 
+
+===
 
 
+
+### **27.7.2026. - 29.7.2026.**
 
 
 
@@ -20,7 +24,7 @@ sa 17 na 18 nije brika nego žica
 
 
 
-### Kleme
+##### Kleme
 
 39L+ spojeno na -X39:9,10 ; -X39:8 ostao spare
 
@@ -30,9 +34,9 @@ X312 spojeno na -X39:66
 
 
 
+###### 
 
-
-### Problemi
+##### Problemi
 
 
 
@@ -140,6 +144,76 @@ dodan CJAW177 i spojene njegove 2 žile u MKA10 umjesto CJAW176
 iskorišten CJAW127 za 0CHG01
 
 dodani novi kabeli u CJAW131,132,133,134 u 0AKA01,02,03,04
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### **10.8.2026.**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
